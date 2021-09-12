@@ -3,5 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "replace"
+  "rangeStrategy": "bump"
 }
