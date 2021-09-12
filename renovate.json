@@ -3,5 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "pin"
+  "rangeStrategy": "update-lockfile"
 }
